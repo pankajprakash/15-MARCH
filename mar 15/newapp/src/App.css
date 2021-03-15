@@ -1,0 +1,113 @@
+.full-body{
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+}
+
+
+/* .full-body
+{
+  width: 100%;
+  height: 100vh;
+  background: grey;
+
+  align-items: center;
+  justify-content: center;
+
+  
+
+} */
+
+
+
+
+.firststbtn {
+  background-color: #02386E; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+
+
+}
+
+.secondbtn {
+  background-color: #02386E; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+
+
+}
+
+.thirdbtn {
+  background-color: #02386E; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  
+
+}
+input[type=password], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+input[type=text], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+
+
+.submit1{
+  background-color: #02386E; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+ margin-left: 20%;
+ border-radius: 30px;
+  
+
+}
+
+ul li{
+  display: inline-block;
+  padding: 30px;
+
+}
+
+form
+{
+  margin: 150px 0px;
+  margin-right: 400px;
+}
+
+.cemter
+{
+  margin-left: 400px;
+}
